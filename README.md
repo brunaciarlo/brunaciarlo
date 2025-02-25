@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Bruna! 👋</h1>
 
-- 🎓 Systems Analysis and Development Student @ [SENAI](https://www.senairs.org.br/faculdade-senai)
+- 🎓 Graduated in Systems Analysis and Development @ [SENAI](https://www.senairs.org.br/faculdade-senai)
 - 📖 I’m currently looking for a job opportunity and developing personal projects
 - 🌱 Learning more about JavaScript, React and Web Development
 - 🏕️ Passionate about new adventures!
